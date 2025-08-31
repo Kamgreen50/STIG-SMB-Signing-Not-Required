@@ -22,9 +22,10 @@
 ---
 
 ## After
-SMB signing successfully enabled, protecting SMB traffic against MITM attacks.  
+SMB signing successfully enabled, protecting SMB traffic against MITM attacks.
 
-Evidence:  
+Evidence:
 SMBSigning-After-Details.png  
 SMBSigning-After-Rescan.png  
+
 
